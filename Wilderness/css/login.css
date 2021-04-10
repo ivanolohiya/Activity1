@@ -1,0 +1,51 @@
+.color-1 {
+    background-color: #8b9474 !important;
+}
+
+.color-2 {
+    background-color: #6cae75 !important;
+}
+
+.color-3 {
+    background-color: #8bbd8b !important;
+}
+
+.color-4 {
+    background-color: #c1cc99 !important;
+}
+
+.color-5 {
+    background-color: #f5a65b !important;
+}
+
+.font-color-1 {
+    color: #8b9474 !important;
+}
+
+.font-color-2 {
+    color: #6cae75 !important;
+}
+
+.font-color-3 {
+    color: #8bbd8b !important;
+}
+
+.font-color-4 {
+    color: #c1cc99 !important;
+}
+
+.font-color-5 {
+    color: #f5a65b !important;
+}
+
+.font-color-black {
+    color: black !important;
+}
+
+.font-pri {
+    font-family: 'Julee';
+}
+
+.font-sub {
+    font-family: 'Prosto-One';
+}
